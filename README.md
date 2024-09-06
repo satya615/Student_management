@@ -1,0 +1,2 @@
+**Student Management System (Python, Tkinter, MySQL)**
+Developed a desktop application using Python's Tkinter for managing student records. The system allows users to add, update, and delete student information stored in a MySQL database. Integrated functionality for fetching specific records based on user input and provided real-time updates to the interface. Enhanced the application with error handling and a clean, user-friendly interface.
